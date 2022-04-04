@@ -2,7 +2,7 @@
 
 I'm a full-stack developer focused on the JavaScript ecosystem.
 
-I have previously worked within the Salesforce ecosystem, specialising in Salesforce Marketing cloud. I created the technical foundations for global CRM teams to run marketing campaigns.
+I have previously worked as a Salesforce Marketing cloud spcialist. I created the technical foundations for global CRM teams to run marketing campaigns.
 
 ### Technologies I work with
 **Front End**: JavaScript | React | TypeScript | CSS | HTML |
