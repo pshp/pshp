@@ -9,4 +9,4 @@ I have previously worked as a Salesforce Marketing cloud specialist. I created t
 
 **Back-end**: TypeScript | Node.js | Express | Koa | Socket.io |
 
-**Databases**: PostgreSQL | Prisma | MySql | Sequelize | Rest API | GraphQL |
+**Databases**: PostgreSQL | Prisma | MySql | Sequelize | Rest API | GraphQL | Firebase |
